@@ -7,7 +7,6 @@ Nama Anggota  :
 2. Shesilia Wibowo (2431417075)
 
 Link Tugas:
-1. Gant & Chart
-2. Laporan Aplikasi (docs)
+1. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
 3. PPT/Slide
 4. Figma
