@@ -8,6 +8,8 @@ Nama Anggota  :
 2. Shesilia Wibowo (2431417068)
 
 Link Tugas:
-1. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
+1. [Ghantt Chart](https://docs.google.com/spreadsheets/d/1g54PkzQ8znmiLCO0wJ7XM-ke3-DvkLdAfyygtCe6LUU/edit?usp=sharing)
+2. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
 3. PPT/Slide
 4. Figma
+   
