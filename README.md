@@ -4,7 +4,7 @@ Aplikasi mobile untuk membantu pengguna mengelola pola makan, konsumsi air, olah
 Nama Kelompok : JoCil
 Nama Anggota  : 
 1. Dzovani Sandy Putra Prayitno (2431417075)
-2. Shesilia Wibowo (2431417075)
+2. Shesilia Wibowo (2431417068)
 
 Link Tugas:
 1. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
