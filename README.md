@@ -10,6 +10,6 @@ Nama Anggota  :
 Link Tugas:
 1. [Ghantt Chart](https://docs.google.com/spreadsheets/d/1g54PkzQ8znmiLCO0wJ7XM-ke3-DvkLdAfyygtCe6LUU/edit?usp=sharing)
 2. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
-3. PPT/Slide(https://www.canva.com/design/DAHDLYrXvf8/y8NprWW7-sNgYdOWdDw_ZA/edit?utm_content=DAHDLYrXvf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. [PPT/Slide](https://www.canva.com/design/DAHDLYrXvf8/y8NprWW7-sNgYdOWdDw_ZA/edit?utm_content=DAHDLYrXvf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 4. Figma
    
