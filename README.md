@@ -10,6 +10,6 @@ Nama Anggota  :
 Link Tugas:
 1. [Ghantt Chart](https://docs.google.com/spreadsheets/d/1g54PkzQ8znmiLCO0wJ7XM-ke3-DvkLdAfyygtCe6LUU/edit?usp=sharing)
 2. [Laporan Aplikasi (docs)](https://docs.google.com/document/d/171INMyIPj4wPSJXG5qlBkEZD7bwe6uDLhqL4eoIWCRY/edit?usp=sharing)
-3. [PPT/Slide] https://bysl.pw/PPT_EL_DIET
+3. [PPT/Slide](https://canva.link/v8qow7bkvjab28k)
 4. [Figma](https://www.figma.com/design/rcBMBNvzBi3BYLzeL4PP7W/APLIKASI-EL-DIET?node-id=0-1&t=l9mD4ZeiU5AeEs65-1)
    
