@@ -8,7 +8,7 @@ Nama Anggota  :
 2. Shesilia Wibowo (2431417068)
 
 Link Tugas:
-1. [Ghantt Chart](https://bysl.pw/GanttChartEL_DIET)
+1. [Gantt Chart](https://bysl.pw/GanttChartEL_DIET)
 2. [Laporan Aplikasi (docs)](https://bysl.pw/LaporanGdocsEL_DIET)
 3. [PPT/Slide](https://bysl.pw/PPT_EL_DIET)
 4. [Figma](https://bysl.pw/FigmaEL_DIET)
